@@ -33,7 +33,12 @@ Today, I decided to focus on the basics: exploring the **pass parameters**. I’
 - **Location**: The starting coordinates of the pass.  
 - **Player Pressure**: Whether the passer was under defensive pressure.  
 - **Pitch Zone**: The area of the pitch where the pass originates.  
-- **Passer Position**: The role of the player making the pass (e.g., defender, midfielder, forward).  
+- **Passer Position**: The role of the player making the pass (e.g., defender, midfielder, forward).
+
+### **26/11:**  
+Today, I decided to focus on extracting the data. At the moment, I am using the information about all the passes from the 2022 FIFA World Cup only and got about 67,000 data points. Currently, I am aiming to make a simple model, so I will later on take into account the positioning of all players on the pitch when I will make a more advanced model later down the line. 
+
+Next, I will focus on exploring different methods to make a machine learning model and see which has the highest accuracy rate in predicting whether the passes will happen and share my results and insights.
 
 ---
 
