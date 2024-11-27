@@ -1,4 +1,4 @@
-# ⚽ Pass Predictor Project 🚀  
+#  Pass Predictor Project ⚽
 
 Hey guys! 👋  
 
@@ -20,7 +20,7 @@ I hope that my journey can also help and inform people about the exciting inters
 ### **25/11:**  
 🚀 *Day 1 of the Pass Predictor Project!*  
 
-Today is the first day I’m working on this project. I want to start off slow, especially since this is my first time working with **StatsBomb data**. It’s 1:49 AM, and I’m sitting in **Indira Gandhi Airport** ✈️. Honestly, I couldn’t think of a better time to start than now—before heading back to USC to face the chaos of homework and, of course, jet lag.  
+Today is the first day I’m working on this project. I want to start off slow, especially since this is my first time working with **StatsBomb data**. It’s 1:49 AM, and I’m sitting in **Indira Gandhi Airport** . Honestly, I couldn’t think of a better time to start than now—before heading back to USC to face the chaos of homework and, of course, jet lag.  
 
 Despite the busy semester, this project is something I’ve wanted to work on for a while, and starting this blog feels like the perfect way to keep myself accountable and truly chase my passions and goals. Combining my love for **football** and **machine learning** into a single project has been a dream of mine, and I’m excited to actually get started on it.  
 
