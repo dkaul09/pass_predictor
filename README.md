@@ -1,7 +1,7 @@
 #  Pass Predictor Project ⚽
 
-Hey guys! 👋  
-**
+Hey guys! 
+
 My name is Dhruv Kaul, and I am a junior at the University of Southern California (USC) with a deep interest in machine learning and football (soccer - I like to call it football though haha). 
 
 I pursued this project as an opportunity to combine my passion for both fields while diving into the world of **sports analytics**.  
